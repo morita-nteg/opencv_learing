@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CVNugetConsoleApp", "CVNugetConsoleApp\CVNugetConsoleApp.vcxproj", "{1FE59053-CD72-4391-877D-9119DA04BBAA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CVNugetCanny", "CVNugetCanny\CVNugetCanny.vcxproj", "{BE54FEF2-A0C5-4F68-8854-BA16276EF941}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{1FE59053-CD72-4391-877D-9119DA04BBAA}.Release|x64.Build.0 = Release|x64
 		{1FE59053-CD72-4391-877D-9119DA04BBAA}.Release|x86.ActiveCfg = Release|Win32
 		{1FE59053-CD72-4391-877D-9119DA04BBAA}.Release|x86.Build.0 = Release|Win32
+		{BE54FEF2-A0C5-4F68-8854-BA16276EF941}.Debug|x64.ActiveCfg = Debug|x64
+		{BE54FEF2-A0C5-4F68-8854-BA16276EF941}.Debug|x64.Build.0 = Debug|x64
+		{BE54FEF2-A0C5-4F68-8854-BA16276EF941}.Debug|x86.ActiveCfg = Debug|Win32
+		{BE54FEF2-A0C5-4F68-8854-BA16276EF941}.Debug|x86.Build.0 = Debug|Win32
+		{BE54FEF2-A0C5-4F68-8854-BA16276EF941}.Release|x64.ActiveCfg = Release|x64
+		{BE54FEF2-A0C5-4F68-8854-BA16276EF941}.Release|x64.Build.0 = Release|x64
+		{BE54FEF2-A0C5-4F68-8854-BA16276EF941}.Release|x86.ActiveCfg = Release|Win32
+		{BE54FEF2-A0C5-4F68-8854-BA16276EF941}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
